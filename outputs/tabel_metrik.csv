@@ -1,0 +1,13 @@
+gambar,metode_down,metode_up,PSNR_dB,SSIM
+natural (astronaut),average,nn,23.39,0.784
+natural (astronaut),average,bilinear,24.56,0.809
+natural (astronaut),average,bicubic,25.57,0.839
+tepi tegas (camera),average,nn,25.16,0.75
+tepi tegas (camera),average,bilinear,25.67,0.745
+tepi tegas (camera),average,bicubic,26.37,0.763
+frekuensi tinggi (checkerboard),average,nn,27.57,0.893
+frekuensi tinggi (checkerboard),average,bilinear,24.95,0.887
+frekuensi tinggi (checkerboard),average,bicubic,25.7,0.954
+halus (gradient),average,nn,42.19,0.962
+halus (gradient),average,bilinear,50.04,0.997
+halus (gradient),average,bicubic,50.72,0.997
